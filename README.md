@@ -1,7 +1,7 @@
 <!-- Br3Fuck Repository Code -->
 
 <h1 align="center">Hola. Soy Br3Fuck</h1>
-<img src="https://1.bp.blogspot.com/-ut7ZlBpiXD4/XygfxRvZdJI/AAAAAAAEGYg/kDbpacLTIcEIEMgKxCOxHBKe2g9i1GyWACLcBGAsYHQ/w623-h350/tenor.gif" width="350px" align="right">
+<img src="https://avatars.githubusercontent.com/u/85564395?s=400&u=5a290f99665f793b9541454b47e5d8f16dba4fcc&v=4" width="350px" align="right">
 
 
 - 🌱 Actualmente aprendo: **Nunca se para de aprender, siempre hay nuevos temas que aprender.**
