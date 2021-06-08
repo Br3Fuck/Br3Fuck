@@ -10,13 +10,12 @@
 
 - 📫 Contactarme: **[Telegram](https://t.me/br3fuck), []()**
 
-- 📄 Conoce mis experiencias:
-
 ---
 
-- ⚡ **Lograr ser miembro de ProxyBrokers**
-
-- 🐢 **Conocer nuevos amigos**
+* 📄 Conoce mis experiencias:
+ 
+    * ⚡ **Lograr ser miembro de ProxyBrokers**
+    * 🐢 **Conocer nuevos amigos**
 
 <h3>Stats Github:</h3>
 
