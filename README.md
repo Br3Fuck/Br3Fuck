@@ -22,3 +22,6 @@
 
 ![¡Br3Fuck Stats!](https://github-readme-stats.vercel.app/api?username=br3fuck&show_icons=true)
 
+<h3>Conocimientos:</h3>
+
+<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="Angular.JS" width="40" height="40"/> </a>
