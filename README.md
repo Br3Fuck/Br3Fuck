@@ -4,7 +4,7 @@
 
 - 🌱 Actualmente aprendo: **Nunca se para de aprender, siempre hay nuevos temas que aprender.**
 
-- 📝 Siempre escribo cosas en: **[En desarrollo...](https://localhost:8080)**
+- ✏️ Siempre escribo cosas en: **[En desarrollo...](https://localhost:8080)**
 
 - 💬 Preguntame sobre: **Criptografia,** **Redes,** **Programacion,** **Pentesting.**
 
@@ -12,7 +12,7 @@
 
 ---
 
-* Conoce mis experiencias:
+* 📖 Conoce mis experiencias:
  
     * **Lograr ser miembro de ProxyBrokers**
     * **Conocer nuevos amigos**
