@@ -16,7 +16,7 @@
 
 - 🐢 **Conocer nuevos amigos**
 
-- 🐸 **Y muchas cosas mas que me faltan por descubrir**
+- 🐸 **Etc...!**
 
 <h3>Stats Github:</h3>
 
