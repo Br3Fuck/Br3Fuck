@@ -18,8 +18,6 @@
 
 - 🐢 **Conocer nuevos amigos**
 
-- 🐸 **Etc...**
-
 <h3>Stats Github:</h3>
 
 ![¡Br3Fuck Stats!](https://github-readme-stats.vercel.app/api?username=br3fuck&show_icons=true)
