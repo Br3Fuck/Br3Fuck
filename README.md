@@ -1,11 +1,4 @@
-div{
-     height: 400px;
-     width: 800px;
-     background: red;
-     line-height: 400px;
-     text-align: center;
-}
+<!-- Br3Fuck Repository Code -->
 
-<div>
-  <h1>Hola. Soy Br3Fuck<h1>
-    </div>
+<h1 align="center">Hola. Soy Br3Fuck</h1>
+<h3 align="center">Actualmente soy miembro de ProxyBrokers y apasionado al hacking.</h3>
