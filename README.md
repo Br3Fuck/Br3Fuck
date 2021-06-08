@@ -8,7 +8,7 @@
 
 - 💬 Preguntame sobre: **Criptografia,** **Redes,** **Programacion,** **Pentesting.**
 
-- 📫 Contactarme: **[Telegram](https://t.me/br3fuck), []()**
+- 📫 Contactarme: **[Telegram](https://t.me/br3fuck), [TikTok](https://www.tiktok.com/@br3fuck), [Instagram](https://www.instagram.com/br3fuck/)**
 
 ---
 
