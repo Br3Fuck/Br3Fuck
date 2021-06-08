@@ -2,6 +2,7 @@
 
 <h1 align="center">Hola. Soy Br3Fuck</h1>
 
+<img src="https://avatars.githubusercontent.com/u/85564395?s=400&u=5a290f99665f793b9541454b47e5d8f16dba4fcc&v=4" width="200px" align="right">
 
 - 🌱 Actualmente aprendo: **Nunca se para de aprender, siempre hay nuevos temas que aprender.**
 
@@ -9,15 +10,15 @@
 
 - 💬 Preguntame sobre: **Criptografia,** **Redes,** **Programacion,** **Pentesting.**
 
-- 📫 Contactarme: **[Telegram](https://t.me/br3fuck)**
+- 📫 Contactarme: **[Telegram](https://t.me/br3fuck), []()**
 
 - 📄 Conoce mis experiencias:
 
-- ⚡ **> Lograr ser miembro de ProxyBrokers**
+- ⚡ **Lograr ser miembro de ProxyBrokers**
 
-- 🐢 **> Conocer nuevos amigos**
+- 🐢 **Conocer nuevos amigos**
 
-- 🐸 **> Etc...**
+- 🐸 **Y muchas cosas mas que me faltan por descubrir**
 
 <h3>Stats Github:</h3>
 
@@ -37,6 +38,4 @@
   
 <h3>Lenguajes que mas uso:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=br3fuck&show_icons=true&locale=en&layout=compact" alt="Br3Fuck" /></p>
-
-
 
