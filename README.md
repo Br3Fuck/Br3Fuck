@@ -18,7 +18,7 @@
 
 - 🐢 **> Conocer nuevos amigos**
 
-- 🐸 **> Y muchas cosas mas que me faltan por descubrir**
+- 🐸 **> Etc...**
 
 <h3>Stats Github:</h3>
 
@@ -38,4 +38,6 @@
   
 <h3>Lenguajes que mas uso:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=br3fuck&show_icons=true&locale=en&layout=compact" alt="Br3Fuck" /></p>
+
+
 
