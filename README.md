@@ -18,4 +18,6 @@
 
 - 🐸 **Y muchas cosas mas que me faltan por descubrir**
 
-###Stats:
+<h3>Stats Github:</h3>
+
+[](https://github-readme-stats.vercel.app/api?username=Br3Fuck&show_icons=true&theme=default)
