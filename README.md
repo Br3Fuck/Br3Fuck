@@ -1,7 +1,6 @@
 <!-- Br3Fuck Repository Code -->
 
-<h1 align="center">Hola. Soy Br3Fuck  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<img src="https://avatars.githubusercontent.com/u/85564395?s=400&u=5a290f99665f793b9541454b47e5d8f16dba4fcc&v=4" width="200px" align="right">
+<h1 align="center">Hola. Soy Br3Fuck"></h1>
 
 
 - 🌱 Actualmente aprendo: **Nunca se para de aprender, siempre hay nuevos temas que aprender.**
