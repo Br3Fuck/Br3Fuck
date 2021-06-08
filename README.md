@@ -1,6 +1,6 @@
 <!-- Br3Fuck Repository Code -->
 
-<h1 align="center"></Hola. Soy Br3Fuck></h1>
+<h1 align="center">Hola. Soy Br3Fuck</h1>
 
 
 - 🌱 Actualmente aprendo: **Nunca se para de aprender, siempre hay nuevos temas que aprender.**
