@@ -3,7 +3,7 @@
 <h1 align="center">Hola. Soy Br3Fuck</h1>
 <h3 align="center">Actualmente soy miembro de ProxyBrokers y apasionado al hacking.</h3>
 
-<br>
+<br></br>
 - 🌱 Actualmente aprendo: **Nunca se para de aprender, siempre hay nuevos temas que aprender.**
 
 - 📝 Siempre escribo cosas en: **[En desarrollo...](https://localhost:8080)**
