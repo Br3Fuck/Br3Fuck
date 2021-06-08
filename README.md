@@ -20,4 +20,4 @@
 
 <h3>Stats Github:</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=Br3Fuck/&show_icons=true&theme=default)
+![](https://github-readme-stats.vercel.app/api?username=br3fuck/&show_icons=true&theme=default)
