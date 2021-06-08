@@ -3,14 +3,18 @@
 <h1 align="center">Hola. Soy Br3Fuck</h1>
 <h3 align="center">Actualmente soy miembro de ProxyBrokers y apasionado al hacking.</h3>
 
-- 🌱 I’m currently learning **a little of everything**
+- 🌱 Actualmente aprendo: **Nunca se para de aprender, siempre hay nuevos temas que aprender.**
 
-- 📝 I regularly write articles on [y3rb1t4.github.io](y3rb1t4.github.io)
+- 📝 Siempre escribo cosas en: [En desarrollo...](localhost:8080)
 
 - 💬 Preguntame sobre: **Criptografia,** **Redes,** **Programacion,** **Pentesting.**
 
 - 📫 Contactarme: **[Telegram](https://t.me/br3fuck)**
 
-- 📄 Know about my experiences ......
+- 📄 Conoce mis experiencias ......
 
-- ⚡ Fun fact **2021**
+- ⚡ **Lograr ser miembro de ProxyBrokers**
+
+- 🐢 **Conocer nuevos amigos**
+
+- 🐸 **Y muchas cosas mas que me faltan por descubrir**
