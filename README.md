@@ -12,10 +12,10 @@
 
 ---
 
-* 📄 Conoce mis experiencias:
+* Conoce mis experiencias:
  
-    * ⚡ **Lograr ser miembro de ProxyBrokers**
-    * 🐢 **Conocer nuevos amigos**
+    * **Lograr ser miembro de ProxyBrokers**
+    * **Conocer nuevos amigos**
 
 <h3>Stats Github:</h3>
 
