@@ -20,5 +20,5 @@
 
 <h3>Stats Github:</h3>
 
-![XD](https://github-readme-stats.vercel.app/api?username=br3fuck&show_icons=true)
+![¡Br3Fuck Stats!](https://github-readme-stats.vercel.app/api?username=br3fuck&show_icons=true)
 
