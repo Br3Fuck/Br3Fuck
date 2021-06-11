@@ -19,7 +19,11 @@
 
 <h3>Stats Github:</h3>
 
-![¡Br3Fuck Stats!](https://github-readme-stats.vercel.app/api?username=br3fuck&show_icons=true)
+<center>
+  <p align="center" align-items="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=br3fuck&show_icons=true"/>
+  </p>
+</center>
 
 <h3>Conocimientos:</h3>
 
