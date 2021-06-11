@@ -17,14 +17,10 @@
     * **Lograr ser miembro de ProxyBrokers**
     * **Conocer nuevos amigos**
 
-<center>
- <h3align="center"Stats Github:><h3>
-  </center>
-<center>
-  <p align="center" align-items="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=br3fuck&show_icons=true"/>
-  </p>
-</center>
+<h3>Github Stats:</h3>
+ 
+![GithubStats](https://github-readme-stats.vercel.app/api?username=br3fuck&show_icons=true)
+
 
 <h3>Conocimientos:</h3>
 
