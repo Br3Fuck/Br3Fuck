@@ -18,7 +18,7 @@
     * **Conocer nuevos amigos**
 
 <center>
- <h3>Stats Github:<h3>
+ <h3align="center"Stats Github:><h3>
   </center>
 <center>
   <p align="center" align-items="center">
