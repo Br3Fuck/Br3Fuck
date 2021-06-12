@@ -19,7 +19,7 @@
 
 <h3>Github Stats:</h3>
  
-![GithubStats](https://github-readme-stats.vercel.app/api?username=br3fuck&show_icons=true&include_all_commits=true&theme=dracula-dark&cache_seconds=3200)
+![GithubStats](https://github-readme-stats.vercel.app/api?username=br3fuck&show_icons=true&include_all_commits=true&theme=dracula&cache_seconds=3200)
 
 <h3>Lenguajes que mas uso:</h3>
 
