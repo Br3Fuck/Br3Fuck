@@ -17,7 +17,7 @@
     * **Lograr ser miembro de ProxyBrokers**
     * **Conocer nuevos amigos**
 
-<h3>Github Stats:</h3>
+<details align="center">Github Stats:
  
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=br3fuck&show_icons=true&include_all_commits=true&cache_seconds=3200&theme=dracula)
 
@@ -25,3 +25,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br3fuck&exclude_repo=eslint-config&theme=dracula" alt="Br3Fuck" /></p>
 
+</details>
