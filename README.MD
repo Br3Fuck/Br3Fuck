@@ -14,7 +14,6 @@
 
 * **📖 Conoce mis experiencias:**
  
-    * **Lograr ser miembro de ProxyBrokers**
     * **Conocer nuevos amigos**
 
 <h3>Github Stats:</h3>
